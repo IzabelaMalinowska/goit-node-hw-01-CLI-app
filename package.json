@@ -1,6 +1,7 @@
 {
   "name": "goit-node-hw-01-cli-app",
   "version": "1.0.0",
+  "homepage": "https://izabelamalinowska.github.io/goit-node-hw-01-CLI-app/",
   "description": "",
   "main": "index.js",
   "scripts": {
